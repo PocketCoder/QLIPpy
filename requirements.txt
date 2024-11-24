@@ -1,0 +1,6 @@
+gradio
+groq
+langchain_huggingface
+langchain-chroma
+langchain
+pysqlite3-binary
