@@ -7,6 +7,7 @@ from typing import List, Dict
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_chroma import Chroma
 from langchain.prompts import PromptTemplate
+from PIL import Image
 
 # Environment variables
 EMBEDDINGS_MODEL_NAME = "all-MiniLM-L6-v2"
@@ -15,6 +16,9 @@ os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
 # Initialize Groq client
 client = Groq()
+
+logo_path = 'static/logo.png'
+img = Image.open(logo_path)
 
 def get_groq_response(system_prompt: str, user_prompt: str) -> str:
     """Get response from Groq API"""
@@ -131,8 +135,9 @@ def process_query(query: str, show_sources: bool = False) -> str:
 def create_gradio_interface():
     """Create the Gradio interface for the application"""
     with gr.Blocks(title="QLIPpy") as interface:
-        gr.Markdown("# QLIPpy")
-        gr.Markdown("Ask questions about QLIP.")
+        with gr.Column(variant="panel"):
+            gr.Markdown("# QLIPpy")
+            gr.Markdown("_Ask questions about QLIP._")
         
         with gr.Row():
             with gr.Column():
@@ -150,7 +155,10 @@ def create_gradio_interface():
                 submit_btn = gr.Button("Submit")
             
             with gr.Column():
-                output = gr.Markdown()
+                output = gr.Markdown(show_copy_button=True, container=True, line_breaks=True, height="500px")
+
+        with gr.Row():
+            gr.Image(img, height="75px", container=False, show_download_button=False, show_fullscreen_button=False)
 
         submit_btn.click(
             fn=process_query,
