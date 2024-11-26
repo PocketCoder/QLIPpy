@@ -1,15 +1,7 @@
-Source URL: https://www.qlip.org.uk/support/#content
-Title: Support – QLIP
+Source URL: https://www.qlip.org.uk/support/
+Title: Support
 
 # Support
-
-## Training Offer
-
-## Supervision
-
-## Measuring impact
-
-## Bespoke Support
 
 At QLIP we know that training helps your team deliver the best quality youth work possible. We offer a range of in house courses suitable for paid and voluntary practitioners, including those with management responsibilities. We also recognise that we’re not experts in everything, and we source high quality trainings for Islington based practitioners based on the current needs of the sector.
 
@@ -20,7 +12,7 @@ QLIP supports the youth sector in Islington to better measure, understand and co
 We’re passionate about youth work, and we know that youth workers and organisations are unique (just like young people). That’s we offer bespoke advice, and support from safeguarding, health & safety and mental health, to equality & diversity, business planning, impact measurement and leadership.
 
 Links:
-[Find out more](https://www.qlip.org.uk/training/)
-[Find out more](https://www.qlip.org.uk/supervision/)
-[Find out more](https://www.qlip.org.uk/support/measuring-impact/)
-[Find out more](https://www.qlip.org.uk/support/bespoke-support/)
+[Training](https://www.qlip.org.uk/training/)
+[Supervision](https://www.qlip.org.uk/supervision/)
+[Measuring Impact / MEL](https://www.qlip.org.uk/support/measuring-impact/)
+[Bespoke Support](https://www.qlip.org.uk/support/bespoke-support/)

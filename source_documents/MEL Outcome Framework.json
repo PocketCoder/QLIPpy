@@ -1,7 +1,7 @@
 [
     {
-        "Outcome Area": "1\nYP have better physical and emotional well-being",
-        "Outcome": "1.1\nImproved physical health",
+        "Outcome Area": "1 YP have better physical and emotional well-being",
+        "Outcome": "1.1 Improved physical health",
         "Indicator": "1.1a YP report they enjoy taking part in physical activities/sport",
         "Data Collection Methods": {
             "Case Study Interview": true,
@@ -14,11 +14,11 @@
         "Example Questions": "How much do you enjoy physical activities/sport? What is your favourite physical or sport activity?",
         "Type of Response": "Open",
         "Examples of Indicative Answers": "(Very) enjoyable; able to name favourite activity(-ies); shares examples of engaging with sport",
-        "Optional Follow-Up Questions": "- Why do you say that?\n- Do you play the sport here or somewhere else?\n- Why do you enjoy it/not enjoy it do you think?",
+        "Optional Follow-Up Questions": "- Why do you say that? - Do you play the sport here or somewhere else? - Why do you enjoy it/not enjoy it do you think?",
         "Comments": "Only applicable to YOs that have physical activities and/or sport within their programme"
     },
     {
-        "Outcome Area": "1\nYP have better physical and emotional well-being",
+        "Outcome Area": "1 YP have better physical and emotional well-being",
         "Outcome": null,
         "Indicator": null,
         "Data Collection Methods": {
@@ -36,7 +36,7 @@
         "Comments": "As above"
     },
     {
-        "Outcome Area": "1\nYP have better physical and emotional well-being",
+        "Outcome Area": "1 YP have better physical and emotional well-being",
         "Outcome": null,
         "Indicator": "1.1b YP report an increase in physical activity",
         "Data Collection Methods": {
@@ -54,7 +54,7 @@
         "Comments": "As above"
     },
     {
-        "Outcome Area": "1\nYP have better physical and emotional well-being",
+        "Outcome Area": "1 YP have better physical and emotional well-being",
         "Outcome": null,
         "Indicator": null,
         "Data Collection Methods": {
@@ -72,7 +72,7 @@
         "Comments": "As above"
     },
     {
-        "Outcome Area": "1\nYP have better physical and emotional well-being",
+        "Outcome Area": "1 YP have better physical and emotional well-being",
         "Outcome": null,
         "Indicator": "1.1c Number of YP taking part in sport activities in YO in the last 6/9/12 months",
         "Data Collection Methods": {
@@ -87,10 +87,10 @@
         "Type of Response": null,
         "Examples of Indicative Answers": "Stable or increasing numbers over time",
         "Optional Follow-Up Questions": null,
-        "Comments": "As above\nYOs are free to choose the time period they are reporting"
+        "Comments": "As above YOs are free to choose the time period they are reporting"
     },
     {
-        "Outcome Area": "1\nYP have better physical and emotional well-being",
+        "Outcome Area": "1 YP have better physical and emotional well-being",
         "Outcome": null,
         "Indicator": "1.1d YP report an increase in healthy eating habits",
         "Data Collection Methods": {
@@ -105,10 +105,10 @@
         "Type of Response": "Yes/No/Don't know",
         "Examples of Indicative Answers": "Yes",
         "Optional Follow-Up Questions": null,
-        "Comments": "Only applicable if the YO is intentionally working with encouraging healthy eating habits. \nRequires a definition of healthy eating"
+        "Comments": "Only applicable if the YO is intentionally working with encouraging healthy eating habits.  Requires a definition of healthy eating"
     },
     {
-        "Outcome Area": "1\nYP have better physical and emotional well-being",
+        "Outcome Area": "1 YP have better physical and emotional well-being",
         "Outcome": null,
         "Indicator": "1.1e YP are able to name healthy eating habits that they have taken up",
         "Data Collection Methods": {
@@ -126,8 +126,8 @@
         "Comments": "As above"
     },
     {
-        "Outcome Area": "1\nYP have better physical and emotional well-being",
-        "Outcome": "1.2\nImproved emotional well-being\n\nNote: These questions and conversations should be followed up by YW presenting options of where YP can find support for their wellbeing, mental and emotional health (in or beyond YO)",
+        "Outcome Area": "1 YP have better physical and emotional well-being",
+        "Outcome": "1.2 Improved emotional well-being  Note: These questions and conversations should be followed up by YW presenting options of where YP can find support for their wellbeing, mental and emotional health (in or beyond YO)",
         "Indicator": "1.2a Number of 1:1 conversations with YP around their well-being in the last 6/9/12 months",
         "Data Collection Methods": {
             "Case Study Interview": false,
@@ -140,11 +140,11 @@
         "Example Questions": null,
         "Type of Response": null,
         "Examples of Indicative Answers": null,
-        "Optional Follow-Up Questions": "- How many times have YP asked for help when they needed it?\n- How many referrals have been made to other more focused organisations?",
+        "Optional Follow-Up Questions": "- How many times have YP asked for help when they needed it? - How many referrals have been made to other more focused organisations?",
         "Comments": "These conversations can be initiated by both YP and YW"
     },
     {
-        "Outcome Area": "1\nYP have better physical and emotional well-being",
+        "Outcome Area": "1 YP have better physical and emotional well-being",
         "Outcome": null,
         "Indicator": "1.2b YP have access tools and resources to manage their mental health",
         "Data Collection Methods": {
@@ -162,7 +162,7 @@
         "Comments": null
     },
     {
-        "Outcome Area": "1\nYP have better physical and emotional well-being",
+        "Outcome Area": "1 YP have better physical and emotional well-being",
         "Outcome": null,
         "Indicator": "1.2c YP report feeling satisfied with their life",
         "Data Collection Methods": {
@@ -180,7 +180,7 @@
         "Comments": "To present this question in group settings, YP should have the choice to share their answers anonymously (e.g. through post-it notes, drawings, photographs)"
     },
     {
-        "Outcome Area": "1\nYP have better physical and emotional well-being",
+        "Outcome Area": "1 YP have better physical and emotional well-being",
         "Outcome": "1.3 Improved sense of safety",
         "Indicator": "1.3a YP feel that YO is a safe space to talk about their well-being",
         "Data Collection Methods": {
@@ -198,7 +198,7 @@
         "Comments": "Note: if the YP does not feel like they can talk about their wellbeing BUT is able to explain why or give examples, it can show their higher self-awareness (Outcome 2.2)"
     },
     {
-        "Outcome Area": "1\nYP have better physical and emotional well-being",
+        "Outcome Area": "1 YP have better physical and emotional well-being",
         "Outcome": null,
         "Indicator": null,
         "Data Collection Methods": {
@@ -216,7 +216,7 @@
         "Comments": "As above"
     },
     {
-        "Outcome Area": "1\nYP have better physical and emotional well-being",
+        "Outcome Area": "1 YP have better physical and emotional well-being",
         "Outcome": null,
         "Indicator": "1.3b YP feel that YO is a physically safe space to spend time at",
         "Data Collection Methods": {
@@ -234,7 +234,7 @@
         "Comments": "The YO should be prepared to address concerns if YP say that they do not feel physically safe (e.g., an anonymous survey might not be a good tool to ask this question)"
     },
     {
-        "Outcome Area": "1\nYP have better physical and emotional well-being",
+        "Outcome Area": "1 YP have better physical and emotional well-being",
         "Outcome": null,
         "Indicator": "1.3c YP are able to reflect on what helps them to feel physically and emotionally safe at the YO",
         "Data Collection Methods": {
@@ -252,8 +252,8 @@
         "Comments": "As above (both related to emotional and physical safety)"
     },
     {
-        "Outcome Area": "1\nYP have better physical and emotional well-being",
-        "Outcome": "1.4\nImproved resilience",
+        "Outcome Area": "1 YP have better physical and emotional well-being",
+        "Outcome": "1.4 Improved resilience",
         "Indicator": "1.4a YP report being able to solve problems",
         "Data Collection Methods": {
             "Case Study Interview": true,
@@ -270,7 +270,7 @@
         "Comments": null
     },
     {
-        "Outcome Area": "1\nYP have better physical and emotional well-being",
+        "Outcome Area": "1 YP have better physical and emotional well-being",
         "Outcome": null,
         "Indicator": "1.4b YP report developing healthy coping strategies",
         "Data Collection Methods": {
@@ -288,8 +288,8 @@
         "Comments": null
     },
     {
-        "Outcome Area": "2\n YP have increased social, emotional and life skills and knowledge",
-        "Outcome": "2.1\nYP gain practical and life skills",
+        "Outcome Area": "2  YP have increased social, emotional and life skills and knowledge",
+        "Outcome": "2.1 YP gain practical and life skills",
         "Indicator": "2.1a YP are able to name skills they have learned",
         "Data Collection Methods": {
             "Case Study Interview": true,
@@ -302,11 +302,11 @@
         "Example Questions": "Have you learned any of the following skills at your youth club?",
         "Type of Response": "Yes/No/Don't know, Tick list",
         "Examples of Indicative Answers": "Yes; tick off those from list of tangible and intangible skills",
-        "Optional Follow-Up Questions": "- Have you learnt anything else through attending youth club?\n- How have you used these skills elsewhere?",
+        "Optional Follow-Up Questions": "- Have you learnt anything else through attending youth club? - How have you used these skills elsewhere?",
         "Comments": null
     },
     {
-        "Outcome Area": "2\n YP have increased social, emotional and life skills and knowledge",
+        "Outcome Area": "2  YP have increased social, emotional and life skills and knowledge",
         "Outcome": null,
         "Indicator": "2.1b Number of YP attending skill-based workshops or activities within YO in the last 6/9/12 months",
         "Data Collection Methods": {
@@ -324,8 +324,8 @@
         "Comments": null
     },
     {
-        "Outcome Area": "2\n YP have increased social, emotional and life skills and knowledge",
-        "Outcome": "2.2\nImproved self-awareness",
+        "Outcome Area": "2  YP have increased social, emotional and life skills and knowledge",
+        "Outcome": "2.2 Improved self-awareness",
         "Indicator": "2.2a YP report understanding their emotions and feelings well",
         "Data Collection Methods": {
             "Case Study Interview": true,
@@ -342,7 +342,7 @@
         "Comments": "This may only be suitable for older YP who are able to reflect on their emotions."
     },
     {
-        "Outcome Area": "2\n YP have increased social, emotional and life skills and knowledge",
+        "Outcome Area": "2  YP have increased social, emotional and life skills and knowledge",
         "Outcome": null,
         "Indicator": null,
         "Data Collection Methods": {
@@ -360,7 +360,7 @@
         "Comments": null
     },
     {
-        "Outcome Area": "2\n YP have increased social, emotional and life skills and knowledge",
+        "Outcome Area": "2  YP have increased social, emotional and life skills and knowledge",
         "Outcome": null,
         "Indicator": "2.2b YP are able to name their personal strengths",
         "Data Collection Methods": {
@@ -378,8 +378,8 @@
         "Comments": null
     },
     {
-        "Outcome Area": "2\n YP have increased social, emotional and life skills and knowledge",
-        "Outcome": "2.3\nImproved social skills",
+        "Outcome Area": "2  YP have increased social, emotional and life skills and knowledge",
+        "Outcome": "2.3 Improved social skills",
         "Indicator": "2.3a YP report improved communication skills",
         "Data Collection Methods": {
             "Case Study Interview": true,
@@ -396,7 +396,7 @@
         "Comments": "Communication skills can include listening, empathy, sharing your opinion, teamwork, conflict resolution, respect, friendliness, tolerance"
     },
     {
-        "Outcome Area": "2\n YP have increased social, emotional and life skills and knowledge",
+        "Outcome Area": "2  YP have increased social, emotional and life skills and knowledge",
         "Outcome": null,
         "Indicator": null,
         "Data Collection Methods": {
@@ -414,7 +414,7 @@
         "Comments": null
     },
     {
-        "Outcome Area": "2\n YP have increased social, emotional and life skills and knowledge",
+        "Outcome Area": "2  YP have increased social, emotional and life skills and knowledge",
         "Outcome": null,
         "Indicator": "2.3b YP report feeling comfortable working in a group",
         "Data Collection Methods": {
@@ -432,7 +432,7 @@
         "Comments": null
     },
     {
-        "Outcome Area": "2\n YP have increased social, emotional and life skills and knowledge",
+        "Outcome Area": "2  YP have increased social, emotional and life skills and knowledge",
         "Outcome": null,
         "Indicator": "2.3c YP work well in a group",
         "Data Collection Methods": {
@@ -447,11 +447,11 @@
         "Type of Response": "Open",
         "Examples of Indicative Answers": "Collaboration; resolving conflicts efficiently; distributing work; listening; respectfully",
         "Optional Follow-Up Questions": "- Have the YP put themselves forward for other group activities?",
-        "Comments": "For an alternative way of measuring teamwork skills, see CFYI questionnaires (Adult and YP version, questions/statements under Teamwork section): \nhttps://www.youthimpact.uk/key-resources/measurement-hub/adult-rating-youth-behaviour-aryb\nhttps://www.youthimpact.uk/key-resources/measurement-hub/youth-rating-socio-emotional-skills-yrss"
+        "Comments": "For an alternative way of measuring teamwork skills, see CFYI questionnaires (Adult and YP version, questions/statements under Teamwork section):  https://www.youthimpact.uk/key-resources/measurement-hub/adult-rating-youth-behaviour-aryb https://www.youthimpact.uk/key-resources/measurement-hub/youth-rating-socio-emotional-skills-yrss"
     },
     {
-        "Outcome Area": "2\n YP have increased social, emotional and life skills and knowledge",
-        "Outcome": "2.4\nIncreased learning",
+        "Outcome Area": "2  YP have increased social, emotional and life skills and knowledge",
+        "Outcome": "2.4 Increased learning",
         "Indicator": "2.4a YP gain accreditation or recognition of their achievements",
         "Data Collection Methods": {
             "Case Study Interview": true,
@@ -465,10 +465,10 @@
         "Type of Response": "Open",
         "Examples of Indicative Answers": "Shares examples of recognition",
         "Optional Follow-Up Questions": null,
-        "Comments": "In and beyond YO\nYP might share this informally"
+        "Comments": "In and beyond YO YP might share this informally"
     },
     {
-        "Outcome Area": "2\n YP have increased social, emotional and life skills and knowledge",
+        "Outcome Area": "2  YP have increased social, emotional and life skills and knowledge",
         "Outcome": null,
         "Indicator": "2.4b YP demonstrate interest in improving current and/or learning new skills",
         "Data Collection Methods": {
@@ -486,7 +486,7 @@
         "Comments": null
     },
     {
-        "Outcome Area": "2\n YP have increased social, emotional and life skills and knowledge",
+        "Outcome Area": "2  YP have increased social, emotional and life skills and knowledge",
         "Outcome": null,
         "Indicator": null,
         "Data Collection Methods": {
@@ -504,8 +504,8 @@
         "Comments": null
     },
     {
-        "Outcome Area": "3\n YP have a higher sense of agency and motivation",
-        "Outcome": "3.1\nSense of ownership within youth work",
+        "Outcome Area": "3  YP have a higher sense of agency and motivation",
+        "Outcome": "3.1 Sense of ownership within youth work",
         "Indicator": "3.1a YP report they feel involved in shaping youth work",
         "Data Collection Methods": {
             "Case Study Interview": false,
@@ -522,7 +522,7 @@
         "Comments": "It can also include resources that the YO has"
     },
     {
-        "Outcome Area": "3\n YP have a higher sense of agency and motivation",
+        "Outcome Area": "3  YP have a higher sense of agency and motivation",
         "Outcome": null,
         "Indicator": "3.1b Number of YP who take responsibilities within the youth club over the last 6/9/12 months",
         "Data Collection Methods": {
@@ -540,8 +540,8 @@
         "Comments": "Responsibilities can be defined by the YO, but they can include proactively supporting YWs on events/activities, coordinating peers, initiating new activities etc."
     },
     {
-        "Outcome Area": "3\n YP have a higher sense of agency and motivation",
-        "Outcome": "3.2\nIncreased confidence",
+        "Outcome Area": "3  YP have a higher sense of agency and motivation",
+        "Outcome": "3.2 Increased confidence",
         "Indicator": "3.2a YP report feeling able to achieve their goals",
         "Data Collection Methods": {
             "Case Study Interview": false,
@@ -558,7 +558,7 @@
         "Comments": "If YP shares some goals but say they do not feel they can achieve them, it is recommended to discuss what makes them feel this way and are there any specific barriers that can be addressed."
     },
     {
-        "Outcome Area": "3\n YP have a higher sense of agency and motivation",
+        "Outcome Area": "3  YP have a higher sense of agency and motivation",
         "Outcome": null,
         "Indicator": "3.2b YP report an increase in confidence",
         "Data Collection Methods": {
@@ -576,7 +576,7 @@
         "Comments": "If YP struggle with this question, can ask them to imagine how confident they feel in specific situations, e.g. meeting new people, doing new things, achieving goals"
     },
     {
-        "Outcome Area": "3\n YP have a higher sense of agency and motivation",
+        "Outcome Area": "3  YP have a higher sense of agency and motivation",
         "Outcome": null,
         "Indicator": "3.2c YP are able to name something they are proud of",
         "Data Collection Methods": {
@@ -594,7 +594,7 @@
         "Comments": null
     },
     {
-        "Outcome Area": "3\n YP have a higher sense of agency and motivation",
+        "Outcome Area": "3  YP have a higher sense of agency and motivation",
         "Outcome": null,
         "Indicator": "3.2d Percentage of YP who speak up and share their opinions in a group",
         "Data Collection Methods": {
@@ -612,8 +612,8 @@
         "Comments": null
     },
     {
-        "Outcome Area": "3\n YP have a higher sense of agency and motivation",
-        "Outcome": "3.3 \nImproved aspirations and ambitions, including education, training and employment (ETE)",
+        "Outcome Area": "3  YP have a higher sense of agency and motivation",
+        "Outcome": "3.3  Improved aspirations and ambitions, including education, training and employment (ETE)",
         "Indicator": "3.3a YP report willingness to try new things",
         "Data Collection Methods": {
             "Case Study Interview": true,
@@ -630,7 +630,7 @@
         "Comments": null
     },
     {
-        "Outcome Area": "3\n YP have a higher sense of agency and motivation",
+        "Outcome Area": "3  YP have a higher sense of agency and motivation",
         "Outcome": null,
         "Indicator": null,
         "Data Collection Methods": {
@@ -641,14 +641,14 @@
             "Observation": false
         },
         "Source of Information": "YP",
-        "Example Questions": "How do you feel about trying new things (for example, new activities offered at your youth club)?\nFor YP with additional needs this Q might be rephrased to:\nHow do you feel about trying new things (for example, new activities offered at your youth club) with your youth worker?",
+        "Example Questions": "How do you feel about trying new things (for example, new activities offered at your youth club)? For YP with additional needs this Q might be rephrased to: How do you feel about trying new things (for example, new activities offered at your youth club) with your youth worker?",
         "Type of Response": "a) Very excited b) Somewhat excited c) I don't feel anything in particular; d) Cautious; e) Worried or very worried",
         "Examples of Indicative Answers": "Very excited or somewhat excited",
         "Optional Follow-Up Questions": null,
         "Comments": null
     },
     {
-        "Outcome Area": "3\n YP have a higher sense of agency and motivation",
+        "Outcome Area": "3  YP have a higher sense of agency and motivation",
         "Outcome": null,
         "Indicator": "3.3b YP report having tried new things in the last 6/9/12 months and are able to name specific examples",
         "Data Collection Methods": {
@@ -666,7 +666,7 @@
         "Comments": "Activities or things in mind should be seen as positive and contributing to YP's quality of life to some extent"
     },
     {
-        "Outcome Area": "3\n YP have a higher sense of agency and motivation",
+        "Outcome Area": "3  YP have a higher sense of agency and motivation",
         "Outcome": null,
         "Indicator": "3.3c Number of YP who took up new education, training and employment (ETE) opportunities in the last 6/9/12months (outside YO)",
         "Data Collection Methods": {
@@ -684,7 +684,7 @@
         "Comments": "Opportunities include ETE: career-, education-, hobby- related opportunities"
     },
     {
-        "Outcome Area": "3\n YP have a higher sense of agency and motivation",
+        "Outcome Area": "3  YP have a higher sense of agency and motivation",
         "Outcome": null,
         "Indicator": "3.3d Number of YP taking leadership roles within YO in the last 6/9/12 months",
         "Data Collection Methods": {
@@ -702,8 +702,8 @@
         "Comments": "Leadership roles can include leading on activities or events, initiating projects, taking up leadership opportunities"
     },
     {
-        "Outcome Area": "4\n YP have strengthened connections with networks of support and communities",
-        "Outcome": "4.1\nImproved connections with others",
+        "Outcome Area": "4  YP have strengthened connections with networks of support and communities",
+        "Outcome": "4.1 Improved connections with others",
         "Indicator": "4.1a YP report feeling connected to others",
         "Data Collection Methods": {
             "Case Study Interview": true,
@@ -720,7 +720,7 @@
         "Comments": null
     },
     {
-        "Outcome Area": "4\n YP have strengthened connections with networks of support and communities",
+        "Outcome Area": "4  YP have strengthened connections with networks of support and communities",
         "Outcome": null,
         "Indicator": null,
         "Data Collection Methods": {
@@ -738,7 +738,7 @@
         "Comments": "If YP shares they do not have close friendships or relationships, YW should follow this up to check on their wellbeing"
     },
     {
-        "Outcome Area": "4\n YP have strengthened connections with networks of support and communities",
+        "Outcome Area": "4  YP have strengthened connections with networks of support and communities",
         "Outcome": null,
         "Indicator": "4.1b YP feel that the youth workers are supportive and can provide examples",
         "Data Collection Methods": {
@@ -756,7 +756,7 @@
         "Comments": "YP might feel hesitant to speak about YWs if they are the ones asking the question - hesitancy might implicate they do not feel fully supported."
     },
     {
-        "Outcome Area": "4\n YP have strengthened connections with networks of support and communities",
+        "Outcome Area": "4  YP have strengthened connections with networks of support and communities",
         "Outcome": null,
         "Indicator": null,
         "Data Collection Methods": {
@@ -774,7 +774,7 @@
         "Comments": null
     },
     {
-        "Outcome Area": "4\n YP have strengthened connections with networks of support and communities",
+        "Outcome Area": "4  YP have strengthened connections with networks of support and communities",
         "Outcome": null,
         "Indicator": "4.1c YP feel that they can ask for help and advice within their youth club",
         "Data Collection Methods": {
@@ -792,7 +792,7 @@
         "Comments": null
     },
     {
-        "Outcome Area": "4\n YP have strengthened connections with networks of support and communities",
+        "Outcome Area": "4  YP have strengthened connections with networks of support and communities",
         "Outcome": null,
         "Indicator": "4.1d Number of YP who have proactively reached out for help or advice at YO in the last 6/9/12 months",
         "Data Collection Methods": {
@@ -810,7 +810,7 @@
         "Comments": "Help or advice in regards to school/education, relationships, hobbies, goals. Could also include YP who accepted help when offered."
     },
     {
-        "Outcome Area": "4\n YP have strengthened connections with networks of support and communities",
+        "Outcome Area": "4  YP have strengthened connections with networks of support and communities",
         "Outcome": null,
         "Indicator": "4.1e YP report having made new friends",
         "Data Collection Methods": {
@@ -828,7 +828,7 @@
         "Comments": "This question might require a sensitive approach if asked in group settings; potentially anonymous methods are more suitable (e.g. post-it notes). If any YP seem distressed, YW should follow this up to check on their wellbeing"
     },
     {
-        "Outcome Area": "4\n YP have strengthened connections with networks of support and communities",
+        "Outcome Area": "4  YP have strengthened connections with networks of support and communities",
         "Outcome": null,
         "Indicator": "4.1f YP report feeling comfortable meeting and spending time with people that are different from them",
         "Data Collection Methods": {
@@ -846,7 +846,7 @@
         "Comments": null
     },
     {
-        "Outcome Area": "4\n YP have strengthened connections with networks of support and communities",
+        "Outcome Area": "4  YP have strengthened connections with networks of support and communities",
         "Outcome": null,
         "Indicator": "4.1g YP report knowing how to solve interpersonal conflicts",
         "Data Collection Methods": {
@@ -864,7 +864,7 @@
         "Comments": null
     },
     {
-        "Outcome Area": "4\n YP have strengthened connections with networks of support and communities",
+        "Outcome Area": "4  YP have strengthened connections with networks of support and communities",
         "Outcome": null,
         "Indicator": "4.1h YP are able to solve conflicts within YO (with or without YW help)",
         "Data Collection Methods": {
@@ -882,8 +882,8 @@
         "Comments": "It is up to observing YWs judgement to decide whether the group of YP is able to solve arising conflicts"
     },
     {
-        "Outcome Area": "4\n YP have strengthened connections with networks of support and communities",
-        "Outcome": "4.2\nImproved connections with communities",
+        "Outcome Area": "4  YP have strengthened connections with networks of support and communities",
+        "Outcome": "4.2 Improved connections with communities",
         "Indicator": "4.2a YP report feeling connected to the local community",
         "Data Collection Methods": {
             "Case Study Interview": true,
@@ -900,7 +900,7 @@
         "Comments": null
     },
     {
-        "Outcome Area": "4\n YP have strengthened connections with networks of support and communities",
+        "Outcome Area": "4  YP have strengthened connections with networks of support and communities",
         "Outcome": null,
         "Indicator": null,
         "Data Collection Methods": {
@@ -918,7 +918,7 @@
         "Comments": null
     },
     {
-        "Outcome Area": "4\n YP have strengthened connections with networks of support and communities",
+        "Outcome Area": "4  YP have strengthened connections with networks of support and communities",
         "Outcome": null,
         "Indicator": "4.2b YP report wanting to help or give back to the local community",
         "Data Collection Methods": {
@@ -936,8 +936,8 @@
         "Comments": null
     },
     {
-        "Outcome Area": "4\n YP have strengthened connections with networks of support and communities",
-        "Outcome": "4.3\nImproved access to services",
+        "Outcome Area": "4  YP have strengthened connections with networks of support and communities",
+        "Outcome": "4.3 Improved access to services",
         "Indicator": "4.3a Number of signposting/referral cases to other services in the community in the last 6/9/12 months",
         "Data Collection Methods": {
             "Case Study Interview": false,
@@ -954,7 +954,7 @@
         "Comments": "Includes other YOs, GP, community centres, charities. Where possible, collect data on types of referrals/examples"
     },
     {
-        "Outcome Area": "4\n YP have strengthened connections with networks of support and communities",
+        "Outcome Area": "4  YP have strengthened connections with networks of support and communities",
         "Outcome": null,
         "Indicator": "4.3b % of YP who take advantage of the referrals and signposting",
         "Data Collection Methods": {
