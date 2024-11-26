@@ -152,7 +152,7 @@ def process_query(query: str, show_sources: bool = False) -> str:
         
         Guidelines:
         1. Use the provided context to answer questions.
-        2. If you don't know something, be honest and provide contact information for the team so they can take the query forward.
+        2. If you don't know something, be honest and provide contact information for the team so they can take the query forward. Do not hallucinate linkes, services, or other aspects of the QLIP program.
         3. Always link back to the relevant page on the website (qlip.org.uk) for the user to find out more information.
         4. Keep your answers short but informative. Use a maximum of four sentences.
         5. If possible, suggest related questions the user might want to ask.
